@@ -1,7 +1,4 @@
-all: main maincpp 010-TestCase
-
-main: src/main.c
-	gcc -o bin/a.out src/main.c
+all: maincpp 010-TestCase
 
 # from catch2 examples online
 010-TestCase: src/010-TestCase.cpp
