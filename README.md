@@ -1,5 +1,7 @@
 This is for my personal use, practicing C and C++.
 
+Compile binaries by running 'make' in the root directory of the project.
+
 I intend to implement leetcode-style files with corresponding unit tests.
 
 As of this writing I am using the catch2 testing framework.
