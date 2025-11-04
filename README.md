@@ -5,7 +5,8 @@ The binaries will be compiled into the 'bin' directory.
 
 I intend to implement leetcode-style files with corresponding unit tests.
 
-As of this writing I am using the catch2 testing framework.
+As of this writing I am using the catch2 testing framework. Those binaries that
+are unit tests can be passed the '--success' option for more info when tests pass.
 
 For a good video on unit testing (it is C++ but the general ideas apply to all languages imo):
 https://www.youtube.com/watch?v=MwoAM3sznS0&pp=ygUOYysrIHVuaXQgdGVzdHM%3D
