@@ -1,6 +1,7 @@
 This is for my personal use, practicing C and C++.
 
 Compile binaries by running 'make' in the root directory of the project.
+The binaries will be compiled into the 'bin' directory.
 
 I intend to implement leetcode-style files with corresponding unit tests.
 
